@@ -23,7 +23,8 @@ bio: I am Behrad Ahmadpour, an Electrical Engineering student at Sharif Universi
 
 # Interests to show in About widget
 interests:
-  - Modern Cryptography, Provable Security
+  - Modern Cryptography
+  - Provable Security
   - Network Traffic Analysis
   - IoT Security 
 
@@ -31,10 +32,10 @@ interests:
 education:
   courses:
     - course: BSc in Electrical Engineering (Communications System)
-      institution: Sharif University of Technology
+      institution: Sharif University of Technology, Tehran, Iran
       year: 20223
     - course: Diploma of Mathematics & Physics 
-      institution: Allame Helli 1 (NODET) 
+      institution: Allame Helli 1 (NODET), Tehran, Iran 
       year: 2019
 
 
