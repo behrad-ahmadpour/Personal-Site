@@ -32,12 +32,10 @@ interests:
 education:
   courses:
     - course: BSc in Electrical Engineering
-      institution: Sharif University of Technology
-      Tehran, Iran
+      institution: Sharif University of Technology, Tehran, Iran
       year: 20223
     - course: Diploma of Mathematics & Physics 
-      institution: Allame Helli 1 (NODET)
-      Tehran, Iran 
+      institution: Allame Helli 1 (NODET), Tehran, Iran 
       year: 2019
 
 
