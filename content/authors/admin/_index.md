@@ -2,9 +2,6 @@
 # Display name
 title: Behrad Ahmadpour
 
-# Name pronunciation (optional)
-name_pronunciation: Behrad Ahmadpour
-
 # Full name (for SEO)
 first_name: Behrad
 last_name: Ahmadpour
@@ -22,7 +19,7 @@ organizations:
     url: https://en.sharif.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am Behrad Ahmadpour, an Electrical Engineering student at Sharif University of Technology in Tehran, Iran. My research focus is within the realm of Communications Systems, with a deep-seated passion for Modern Cryptography and Network Security. I've contributed to research by authoring papers on VPN traffic analysis and DDoS mitigation, and I've spent previous summers engaging in research internships at universities in Hong Kong, Japan, and Taiwan. My professional journey has involved developing DPI engines, creating penetration testing tools, and meticulously analyzing security systems.
 
 # Interests to show in About widget
 interests:
@@ -61,25 +58,6 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -88,22 +66,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: 'ahmadpour.behrad@gmail.com'
+  # - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/behrad-ahmadpour
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/behrad-ahmadpour
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -115,5 +93,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Behrad Ahmadpour, an Electrical Engineering student at Sharif University of Technology in Tehran, Iran. My research focus is within the realm of Communications Systems, with a deep-seated passion for Modern Cryptography and Network Security. I've contributed to research by authoring papers on VPN traffic analysis and DDoS mitigation, and I've spent previous summers engaging in research internships at universities in Hong Kong, Japan, and Taiwan. My professional journey has involved developing DPI engines, creating penetration testing tools, and meticulously analyzing security systems.
 {style="text-align: justify;"}
